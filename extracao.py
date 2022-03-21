@@ -10,3 +10,4 @@ for i in quotes:
 
     print(texto,autor,tags)
     
+##via play 

@@ -25,3 +25,6 @@ class ToScrapeSpiderXPath(scrapy.Spider):
 #response.css("a").xpath("@href").extract()
 #response.xpath('//div//span//a[re:test(@href,"Mark-Twain")]')
 #response.css("li.next a").xpath("@href").extract()
+
+
+###scrapy crawl quotes -o quotes.json // criação .json
